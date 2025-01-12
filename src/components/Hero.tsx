@@ -7,9 +7,9 @@ const Hero = () => {
       <div className="text-center">
         <div className="mb-8">
           <img
-            src=""
+            src="/src/assets/Pfp.jpeg"
             alt="Profile"
-            className="w-32 h-32 rounded-full mx-auto object-cover ring-4 ring-purple-500/30"
+            className="w-60 h-60 rounded-full mx-auto object-cover ring-4 ring-purple-500/30"
           />
         </div>
         <h1 className="text-4xl font-bold mb-6 bg-gradient-to-r from-purple-500 to-pink-500 text-transparent bg-clip-text">
@@ -23,9 +23,9 @@ const Hero = () => {
         </button>
         
         <div className="flex justify-center space-x-4">
-          <SocialLink href="https://github.com" icon={<Github />} />
-          <SocialLink href="https://linkedin.com" icon={<Linkedin />} />
-          <SocialLink href="mailto:tu@email.com" icon={<Mail />} />
+          <SocialLink href="https://github.com/zenencontreras" icon={<Github />} />
+          <SocialLink href="https://www.linkedin.com/in/zenen-contreras-royero-726523259/" icon={<Linkedin />} />
+          <SocialLink href="mailto:zenencontreras1@email.com" icon={<Mail />} />
         </div>
       </div>
     </div>

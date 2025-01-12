@@ -17,7 +17,7 @@ const Header = () => {
         <div className="h-full flex items-center justify-between">
           <div className="flex items-center">
             <Code2 className="h-6 w-6 sm:h-8 sm:w-8 text-purple-500" />
-            <span className="ml-2 text-lg sm:text-xl font-bold">PortafolioDev</span>
+            <span className="ml-2 text-lg sm:text-xl font-bold">ZenenDev</span>
           </div>
           
           <div className="hidden md:flex space-x-8">
