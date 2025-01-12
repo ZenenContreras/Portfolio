@@ -16,7 +16,7 @@ const Hero = () => {
           Frontend Developer
         </h1>
         <p className="text-lg text-gray-400 mb-8">
-          Hola! Soy Zenen y me apasiona diseñar y desarrollar experiencias web excepcionales que combinan funcionalidad y diseño innovador.
+          Hola! Soy Zenen Contreras y me apasiona diseñar y desarrollar experiencias web excepcionales que combinan funcionalidad y diseño innovador.
         </p>
         <button className="w-full px-8 py-3 bg-purple-500 hover:bg-purple-600 rounded-full font-medium transition-colors duration-200 mb-8">
           Descargar CV
