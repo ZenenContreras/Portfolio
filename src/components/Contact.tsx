@@ -49,8 +49,8 @@ const Contact = () => {
             <ContactInfo 
               icon={<Mail />}
               title="Email"
-              detail="Zenencontreras1@email.com"
-              href="mailto:Zenencontreras1@email.com"
+              detail="Zenencontreras1@gmail.com"
+              href="mailto:Zenencontreras1@gmail.com"
             />
             <ContactInfo 
               icon={<Phone />}
