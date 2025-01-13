@@ -7,7 +7,7 @@ const Hero = () => {
       <div className="text-center">
         <div className="mb-8">
           <img
-            src="/src/assets/Pfp.jpeg"
+            src="/Pfp.jpeg"
             alt="Profile"
             className="w-60 h-60 rounded-full mx-auto object-cover ring-4 ring-purple-500/30"
           />
