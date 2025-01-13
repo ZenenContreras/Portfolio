@@ -9,7 +9,7 @@ const Contact = () => {
     e.preventDefault();
     setIsSubmitting(true);
     setSubmitStatus('idle');
-
+ 
     const form = e.currentTarget;
     const formData = new FormData(form);
     
