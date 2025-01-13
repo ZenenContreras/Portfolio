@@ -15,7 +15,7 @@ const Contact = () => {
     
     try {
       // Replace with your email service endpoint
-      const response = await fetch('https://formspree.io/f/your-form-id', {
+      const response = await fetch('https://formspree.io/f/mgvvdzkr', {
         method: 'POST',
         body: formData,
         headers: {
